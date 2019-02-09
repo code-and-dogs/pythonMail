@@ -1,5 +1,5 @@
 ### pythonMail
-#Sending Emails with Python
+Sending Emails with Python
 
 With this small python script you can send emails, e.g. with your gmail account#
 
